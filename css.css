@@ -7,7 +7,7 @@
   --second-color: #777;
 }
 body {
-  background-color: rgb(253, 224, 229);
+  background-color: hsl(30, 38%, 92%);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
@@ -114,7 +114,7 @@ body {
 }
 p {
   color: var(--second-color);
-  font-size: 20px;
+  font-size: 14px;
 }
 .second h1 {
   font-size: 50px;
@@ -131,7 +131,7 @@ p {
     margin: 15px 0 15px;
   }
   .container p {
-    font-size: 16px;
+    font-size: 14px;
   }
   .price .new-price {
     color: var(--main-color);
